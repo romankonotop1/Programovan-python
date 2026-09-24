@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-[README.md](https://github.com/user-attachments/files/32596219/README.md)
-=======
->>>>>>> bcfcaad (update)
-# SPSKladno 
-
 ## Nastavení VS Code a GIT ve školním prostředí
 
 Ve škole je Python, Git i VS Code nainstalováno jako **portable verze na serveru**. Aby vše správně fungovalo, je potřeba provést následující kroky.
