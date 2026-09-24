@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 [README.md](https://github.com/user-attachments/files/32596219/README.md)
+=======
+>>>>>>> bcfcaad (update)
 # SPSKladno 
 
 ## Nastavení VS Code a GIT ve školním prostředí
